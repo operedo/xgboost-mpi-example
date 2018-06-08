@@ -2,10 +2,10 @@
 
 ## Requirements
 
-..* SLURM 
-..* MPI
-..* Python
-..* XGBoost python module
+  * SLURM 
+  * MPI
+  * Python
+  * XGBoost python module
 
 ## Install
 ```
